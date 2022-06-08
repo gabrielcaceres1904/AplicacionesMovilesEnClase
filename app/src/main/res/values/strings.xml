@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="textViewSaludo_texto">Soy un text view</string>
+    <string name="botonSaludo_text">Soy un boton</string>
 </resources>
